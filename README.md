@@ -13,7 +13,7 @@
 2019年：web安全、RHCE
 2020年：web安全、Redteam、内网、域、C++
 2021年：Redteam、内网、域、C++、BYPASS
-2022年：底层
+2022年：底层、java周边
 ......
 ......
 ......
@@ -116,6 +116,9 @@ https://github.com/phith0n/Mind-Map
 #### java
 这里真的是废物，宛如脚本小子，只会打，没有每行分析过代码，真不敢说全都会
 - java基本语法
+- 代码审计
+- oa类漏洞分析
+- oa类漏洞挖掘
 - shiro反序列化分析
 - tomcat分析
 - fastjson分析
@@ -127,6 +130,9 @@ https://github.com/phith0n/Mind-Map
 - ~~fastjson漏洞利用~~
 - ~~weblogic漏洞利用~~
 - ~~jboss漏洞利用~~
+- cs分析
+- cs改版
+- cs插件自研
 ### 安全工具
 - ~~常规工具使用（bp、nmap、sqlmap、xray等等实在太多了，不列举了）~~
 - ida等逆向工具，不敢说熟练使用，毕竟不是专业二进制，所以先放着不算完成
