@@ -207,8 +207,8 @@ https://github.com/phith0n/Mind-Map
 - ~~凭证获取bypass~~
 - ~~凭证横向pth、ptt、ptk~~
 - ~~常规横向工具psexec、wmic、impacket组件~~
-- impacket深入
-- 横向工具深入，原理方向
+- ~~impacket深入~~
+- ~~横向工具深入，原理方向，psexec，wmic，atexec等~~
 - 横向工具深入，尝试自写
 - ~~常规横向思路~~
 - ~~重点目标思路~~
